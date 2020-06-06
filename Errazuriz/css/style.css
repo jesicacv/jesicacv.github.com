@@ -1,0 +1,86 @@
+body{
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+.body{
+  padding: 60px 15px
+}
+
+.main-header{
+  background-color:#34495E;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:4px;
+}
+.nav-link{
+color:white;
+margin-right:-4px;
+text-decoration: none;
+width: 33%;
+display: inline-block;
+}
+.text-center{
+text-align:center;
+}
+.red-text{
+color:#F45B69;
+}
+.main-container{
+  min-height:100vh
+}
+.product img{
+  width: 250px;
+}
+.product h3{
+  font-size: 1.2em;
+  margin-top: 5px;
+  margin-bottom: 6px;
+}
+.card{
+  border-radius: 6px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.12), 0 2px 3px rgba(0,0,0,0.24);
+}
+.threed{
+  text-shadow: 1px 3px 0px #6b251d, 1px 13px 5px rgb(171, 168, 168);
+}
+.delay-1{
+  animation-delay: 0.1s;
+  z-index:8;
+}
+.delay-2{
+  animation-delay: 0.2s;
+  position: relative;
+  z-index:7;
+}
+.delay-3{
+  animation-delay: 0.3s;
+  position: relative;
+  z-index:6;
+}
+.delay-4{
+  animation-delay: 0.4s;
+  position: relative;
+  z-index:5;
+}
+.delay-5{
+  animation-delay: 0.5s;
+  position: relative;
+  z-index:4;
+}
+.delay-6{
+  animation-delay: 0.6s;
+  position: relative;
+  z-index:3;
+}
+.delay-7{
+  animation-delay: 0.7s;
+  position: relative;
+  z-index:2;
+}
+.delay-8{
+  animation-delay: 0.8s;
+  position: relative;
+  z-index:1;
+}
